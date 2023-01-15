@@ -1,3 +1,4 @@
-"<?php" 
-""­Holas mundo!;"" 
-"?>" 
+<?php 
+echo "Â¡Hola mundo!";
+echo "Esto es un practica de ETS"; 
+?> 
